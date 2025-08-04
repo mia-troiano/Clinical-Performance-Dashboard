@@ -14,7 +14,7 @@ This project aims to provide a dashboard solution for visualizing and reporting 
 - Focus on usability for healthcare settings
 
 ## Project Structure
-- `/data`: Excel files with dashboard
+- `/analysis`: Excel files with dashboard
 - `/visuals`: Screenshots and exports of dashboards (Excel)
 - `/reports`: Project Presentation (see: `reports/Clinical Performance Dashboard Presentation.pdf`)
 
@@ -22,7 +22,7 @@ This project aims to provide a dashboard solution for visualizing and reporting 
 - Excel
 
 ## How to Use
-1. Review `/data` for interactive dashboard.
+1. Review `/analysis` for interactive dashboard.
 2. Browse dashboards screenshots in `/visuals` for visual insights.
 3. Read detailed reports and the final presentation in `/reports` for key findings and context.
 
