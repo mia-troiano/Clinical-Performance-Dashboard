@@ -16,7 +16,7 @@ This project aims to provide a dashboard solution for visualizing and reporting 
 ## Project Structure
 - `/analysis`: Excel files with dashboard
 - `/visuals`: Screenshots and exports of dashboards (Excel)
-- `/reports`: Project Presentation (see: `reports/Clinical Performance Dashboard Presentation.pdf`)
+- `/reports`: Project Presentation (see: [Clinical Performance Dashboard Presentation](reports/Clinical-Performance-Dashboard-Presentation.pdf))
 
 ## Technologies Used
 - Excel
