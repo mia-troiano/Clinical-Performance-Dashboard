@@ -1,39 +1,28 @@
-# SQL Olympic Data Analysis
+# Clinical Performance Dashboard
 
-## Project Overview
-This project analyzes data from over 100 years of the Olympic Games. Using SQL, the analysis explores a variety of trends in the data, such as:
-- Teams with the most participating athletes
-- Teams with the most medals
-- Mean athlete age
-- Additional historical trends and statistics
+Welcome to the Clinical Performance Dashboard repository!
 
-## Audience
-This analysis is valuable for:
-- **Olympic Committees**: Shows long-term trends, highlights top-performing countries, and can help guide future decisions.
-- **Sports Commentators**: Provides historical context and interesting facts to share with fans.
-- **Sports Enthusiasts & Analysts**: Offers in-depth statistics and insights into the history of the Olympics.
+## Overview
+
+This project aims to provide a dashboard solution for visualizing and reporting clinical performance metrics. It is designed to help healthcare professionals, administrators, and stakeholders monitor key indicators, generate reports, and support data-driven decision-making.
 
 ## Features
-- Analysis of 100+ years of Olympic data (1896–2016)
-- Data cleaning, querying, and visualization using SQL (Snowflake)
-- Visual dashboards and presentations showcasing key findings
+
+- Interactive dashboard for clinical metrics
+- Generation of PDF reports 
+- Modular design for easy extension and customization
+- Focus on usability for healthcare settings
 
 ## Project Structure
-- `/data`: Raw Olympic data (CSV files)
-- `/sql`: SQL scripts for data cleaning and analysis
-- `/visualizations`: Screenshots and exports of dashboards (Snowflake/SourceTable)
-- `/reports`: Project proposal, exploratory data analysis, and final presentation ([see here](https://github.com/mia-troiano/SQL-Olympic-Data/blob/main/reports/Project%20Proposal.pdf))
+- `/data`: Excel files with dashboard
+- `/visuals`: Screenshots and exports of dashboards (Excel)
+- `/reports`: Project Presentation (see: `reports/Clinical Performance Dashboard Presentation.pdf`)
 
 ## Technologies Used
-- SQL (Snowflake)
-- SourceTable (for visualizations)
+- Excel
 
 ## How to Use
-1. Review SQL scripts in `/sql` for detailed analysis queries.
-2. Browse dashboards in `/visualizations` for visual insights.
+1. Review `/data` for interactive dashboard.
+2. Browse dashboards screenshots in `/visuals` for visual insights.
 3. Read detailed reports and the final presentation in `/reports` for key findings and context.
 
-## Key Insights
-- Historical trends in athlete participation
-- Medal counts by country and sport
-- Age and gender demographics across the years
